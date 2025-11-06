@@ -126,7 +126,7 @@ The **TextGrid** files generated include phoneme and word-level alignments for a
 ## 🔗 Links
 
 **GitHub Repository:**
-[https://github.com/Thotaadarsh/montreal_forced_aligner](https://github.com/Thotaadarsh/montreal_forced_aligner)
+[https://github.com/KompallyNikshitha/montreal_forced_aligner](https://github.com/KompallyNikshitha/montreal_forced_aligner)
 
 **Google Drive (Report PDF & Outputs):**
 [https://drive.google.com/file/d/1vnN_GNKTVnUdkeGEebL6mmiJ_O7yow4o/view?usp=sharing](https://drive.google.com/file/d/1vnN_GNKTVnUdkeGEebL6mmiJ_O7yow4o/view?usp=sharing)
